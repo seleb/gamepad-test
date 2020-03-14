@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
-import gamepads from 'input-gamepads.js';
+import { Gamepads } from 'input-gamepads.js';
 
-gamepads.init();
+const gamepads = new Gamepads();
 
 function loop() {
 	gamepads.update();
@@ -19,12 +19,6 @@ export function useRaf(fn) {
 		loopfn();
 		return () => cancelAnimationFrame(raf);
 	}, [fn]);
-}
-
-export function useGamepad() {
-	useEffect(() => {
-		gamepads.init();
-	}, []);
 }
 
 export function useAxis(axis) {
