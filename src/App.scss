@@ -1,24 +1,31 @@
 .app {
+	height: 100%;
 	display: flex;
-	flex-wrap: wrap;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+	&, & input {
+		font-family: 'Courier New', Courier, monospace;
+	}
 
 	section {
 		display: flex;
 		flex-wrap: wrap;
-	}
-
-	.button {
-		width: 4em;
-		height: 4em;
-		border: solid 1px black;
-
-		&.down {
-			background: black;
-			color: white;
+		justify-content: center;
+		align-items: center;
+		
+		&.section-axis {
+			flex-direction: column;
 		}
 	}
 
-	.axis {
+	.button {
+		padding: 0.5rem;
+		border: solid 1px black;
+	}
+
+	.double-axis {
 		display: grid;
 		grid-template-columns: 1fr 1fr;
 		width: 10em;

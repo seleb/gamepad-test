@@ -8,7 +8,7 @@ export function DoubleAxis({
 	const x = useAxis(axisX);
 	const y = useAxis(axisY);
 	return (
-		<div className="axis">
+		<div className="double-axis">
 		<label>x (axis {axisX}): <input type="number" readOnly value={x} /></label>
 		<label>y (axis {axisY}): <input type="number" readOnly value={y} /></label>
 		<div className="axis-square">

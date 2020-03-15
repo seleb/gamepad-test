@@ -6,7 +6,7 @@ export function Button({
 	button,
 }) {
 	const isDown = useButton(button);
-	return <div className={`button ${isDown ? 'down' : ''}`}>button {name} {isDown ? 'down' : 'up'}</div>;
+	return <label className="button">{name}: <input type="checkbox" readonly checked={isDown} /></label>;
 }
 
 export default Button;
