@@ -1,13 +1,22 @@
 {
-  "main.css": "/gamepad-test/static/css/main.f4b91c45.chunk.css",
-  "main.js": "/gamepad-test/static/js/main.4a412f3a.chunk.js",
-  "main.js.map": "/gamepad-test/static/js/main.4a412f3a.chunk.js.map",
-  "runtime~main.js": "/gamepad-test/static/js/runtime~main.b7551aa7.js",
-  "runtime~main.js.map": "/gamepad-test/static/js/runtime~main.b7551aa7.js.map",
-  "static/js/2.8bf630fd.chunk.js": "/gamepad-test/static/js/2.8bf630fd.chunk.js",
-  "static/js/2.8bf630fd.chunk.js.map": "/gamepad-test/static/js/2.8bf630fd.chunk.js.map",
-  "index.html": "/gamepad-test/index.html",
-  "precache-manifest.681ca4da6f2be7b2946aa4f403b86d3f.js": "/gamepad-test/precache-manifest.681ca4da6f2be7b2946aa4f403b86d3f.js",
-  "service-worker.js": "/gamepad-test/service-worker.js",
-  "static/css/main.f4b91c45.chunk.css.map": "/gamepad-test/static/css/main.f4b91c45.chunk.css.map"
+  "files": {
+    "main.css": "/gamepad-test/static/css/main.aba04ead.chunk.css",
+    "main.js": "/gamepad-test/static/js/main.9e5840c4.chunk.js",
+    "main.js.map": "/gamepad-test/static/js/main.9e5840c4.chunk.js.map",
+    "runtime-main.js": "/gamepad-test/static/js/runtime-main.99c18ab6.js",
+    "runtime-main.js.map": "/gamepad-test/static/js/runtime-main.99c18ab6.js.map",
+    "static/js/2.023ab2dd.chunk.js": "/gamepad-test/static/js/2.023ab2dd.chunk.js",
+    "static/js/2.023ab2dd.chunk.js.map": "/gamepad-test/static/js/2.023ab2dd.chunk.js.map",
+    "index.html": "/gamepad-test/index.html",
+    "precache-manifest.e7d083055fe3d12ce465cf1df39a3719.js": "/gamepad-test/precache-manifest.e7d083055fe3d12ce465cf1df39a3719.js",
+    "service-worker.js": "/gamepad-test/service-worker.js",
+    "static/css/main.aba04ead.chunk.css.map": "/gamepad-test/static/css/main.aba04ead.chunk.css.map",
+    "static/js/2.023ab2dd.chunk.js.LICENSE.txt": "/gamepad-test/static/js/2.023ab2dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99c18ab6.js",
+    "static/js/2.023ab2dd.chunk.js",
+    "static/css/main.aba04ead.chunk.css",
+    "static/js/main.9e5840c4.chunk.js"
+  ]
 }
