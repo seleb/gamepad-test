@@ -1,7 +1,15 @@
 {
+  "private": true,
   "name": "gamepad-test",
   "version": "0.1.0",
-  "private": true,
+  "description": "test app for input-gamepads.js",
+  "author": "Sean S. LeBlanc <sean.s.leblanc@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/seleb/gamepad-test.git"
+  },
+  "homepage": "https://seleb.github.io/gamepad-test",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -22,10 +30,9 @@
   "devDependencies": {
     "input-gamepads.js": "^3.0.2",
     "gh-pages": "^2.2.0",
-    "sass": "^1.49.7",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-scripts": "^3.4.0"
-  },
-  "homepage": "https://seleb.github.io/gamepad-test"
+    "react-scripts": "^3.4.0",
+    "sass": "^1.49.7"
+  }
 }
