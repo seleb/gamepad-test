@@ -1,22 +1,13 @@
 {
   "files": {
-    "main.css": "/gamepad-test/static/css/main.aba04ead.chunk.css",
-    "main.js": "/gamepad-test/static/js/main.9e5840c4.chunk.js",
-    "main.js.map": "/gamepad-test/static/js/main.9e5840c4.chunk.js.map",
-    "runtime-main.js": "/gamepad-test/static/js/runtime-main.99c18ab6.js",
-    "runtime-main.js.map": "/gamepad-test/static/js/runtime-main.99c18ab6.js.map",
-    "static/js/2.023ab2dd.chunk.js": "/gamepad-test/static/js/2.023ab2dd.chunk.js",
-    "static/js/2.023ab2dd.chunk.js.map": "/gamepad-test/static/js/2.023ab2dd.chunk.js.map",
+    "main.css": "/gamepad-test/static/css/main.ed28bf44.css",
+    "main.js": "/gamepad-test/static/js/main.f43880cf.js",
     "index.html": "/gamepad-test/index.html",
-    "precache-manifest.e7d083055fe3d12ce465cf1df39a3719.js": "/gamepad-test/precache-manifest.e7d083055fe3d12ce465cf1df39a3719.js",
-    "service-worker.js": "/gamepad-test/service-worker.js",
-    "static/css/main.aba04ead.chunk.css.map": "/gamepad-test/static/css/main.aba04ead.chunk.css.map",
-    "static/js/2.023ab2dd.chunk.js.LICENSE.txt": "/gamepad-test/static/js/2.023ab2dd.chunk.js.LICENSE.txt"
+    "main.ed28bf44.css.map": "/gamepad-test/static/css/main.ed28bf44.css.map",
+    "main.f43880cf.js.map": "/gamepad-test/static/js/main.f43880cf.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.99c18ab6.js",
-    "static/js/2.023ab2dd.chunk.js",
-    "static/css/main.aba04ead.chunk.css",
-    "static/js/main.9e5840c4.chunk.js"
+    "static/css/main.ed28bf44.css",
+    "static/js/main.f43880cf.js"
   ]
 }
