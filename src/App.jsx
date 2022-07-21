@@ -1,9 +1,10 @@
-import React from 'react';
 import { Axes, Buttons } from 'input-gamepads.js';
+import React from 'react';
 import './App.scss';
 import Axis from './Axis';
-import DoubleAxis from './DoubleAxis';
 import Button from './Button';
+import { Controller } from './Controller';
+import DoubleAxis from './DoubleAxis';
 
 
 function App()
@@ -20,6 +21,7 @@ function App()
       <section className="section-button">
         {Object.entries(Buttons).slice(Object.values(Buttons).length/2).map(([name, value]) => <Button key={value} name={name} button={value} />)}
       </section>
+      <Controller />
     </div>
   );
 }
