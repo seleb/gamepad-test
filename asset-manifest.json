@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gamepad-test/static/css/main.d638af9b.css",
-    "main.js": "/gamepad-test/static/js/main.25beda3a.js",
+    "main.js": "/gamepad-test/static/js/main.46ff5ef8.js",
     "index.html": "/gamepad-test/index.html",
     "main.d638af9b.css.map": "/gamepad-test/static/css/main.d638af9b.css.map",
-    "main.25beda3a.js.map": "/gamepad-test/static/js/main.25beda3a.js.map"
+    "main.46ff5ef8.js.map": "/gamepad-test/static/js/main.46ff5ef8.js.map"
   },
   "entrypoints": [
     "static/css/main.d638af9b.css",
-    "static/js/main.25beda3a.js"
+    "static/js/main.46ff5ef8.js"
   ]
 }
